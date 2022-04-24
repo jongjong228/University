@@ -1,0 +1,10 @@
+1.Son|356|
+2.Krok|343|
+3.Potnij|339|
+4.Likantrop|328|
+5.SUPER|326|
+6.Sapog|325|
+7.Tolia|305|
+8.Musia|300|
+9.Kolia|294|
+10.Ao|293|
