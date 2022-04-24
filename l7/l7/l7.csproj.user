@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="forms\AddCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\AddSent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\AdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Appls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\ClientMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\CurAppls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\EmployerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\NewAppl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\NewEmpl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\RegClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\UpdateClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
